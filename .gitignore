@@ -1,0 +1,12 @@
+# Xcode User Data & Caches
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+.ips
+
+# Swift Package Manager (si généré en local)
+.build/
+.swiftpm/
+
+# Fichiers système macOS
+.DS_Store
